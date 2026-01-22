@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Classic 808",
+  "author": "Schill Instruments",
+  "description": "Iconic TR-808 drum machine sounds with deep kick and crisp snare",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:33.191959",
+  "categories": [
+    "Kit"
+  ],
+  "tags": [
+    "808",
+    "classic",
+    "vintage",
+    "hiphop",
+    "techno"
+  ],
+  "parameters": {},
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/DrumMachine/kits/01_Classic_808.json",
+    "conversionDate": "2026-01-21T18:47:33.191953",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

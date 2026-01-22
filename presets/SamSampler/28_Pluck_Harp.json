@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Harp",
+  "author": "Bret Bouchard",
+  "description": "Concert harp with shimmering harmonics and graceful decay.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:39.628885",
+  "categories": [
+    "Pluck"
+  ],
+  "tags": [
+    "pluck",
+    "harp",
+    "shimmering",
+    "graceful",
+    "concert"
+  ],
+  "parameters": {
+    "sample.file": "harp_C4.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.82,
+    "filter.resonance": 0.1,
+    "env.adsr.a": 0.001,
+    "env.adsr.d": 0.6,
+    "env.adsr.s": 0.05,
+    "env.adsr.r": 0.55,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.25,
+    "fx.delay": 0.18,
+    "fx.reverb": 0.55,
+    "output.level": 0.78,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/28_Pluck_Harp.json",
+    "conversionDate": "2026-01-21T18:47:39.628874",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

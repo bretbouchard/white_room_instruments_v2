@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Flute Lead",
+  "author": "Bret Bouchard",
+  "description": "Breathy flute lead with soft attacks and airy character.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:41.599304",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "flute",
+    "breathy",
+    "soft",
+    "airy"
+  ],
+  "parameters": {
+    "sample.file": "wind_flute_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.2,
+    "sample.loop.end": 0.8,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.68,
+    "filter.resonance": 0.12,
+    "env.adsr.a": 0.06,
+    "env.adsr.d": 0.15,
+    "env.adsr.s": 0.6,
+    "env.adsr.r": 0.25,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.2,
+    "fx.delay": 0.12,
+    "fx.reverb": 0.45,
+    "output.level": 0.75,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/14_Lead_Flute.json",
+    "conversionDate": "2026-01-21T18:47:41.599297",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

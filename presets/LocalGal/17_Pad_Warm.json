@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Warm Pad",
+  "author": "Bret Bouchard",
+  "description": "Lush warm pad with slow attack, soft detune, gentle filter, and reverb for ambient depth.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:57.411220",
+  "categories": [
+    "Pad"
+  ],
+  "tags": [
+    "pad",
+    "warm",
+    "lush",
+    "ambient",
+    "slow"
+  ],
+  "parameters": {
+    "osc1.waveform": 0.0,
+    "osc1.pitch": 0.5,
+    "osc1.detune": 0.49,
+    "osc1.level": 0.7,
+    "osc2.waveform": 1.0,
+    "osc2.pitch": 0.5,
+    "osc2.detune": 0.51,
+    "osc2.level": 0.7,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.4,
+    "filter.resonance": 0.15,
+    "filter.env.amount": 0.3,
+    "filter.lfo.rate": 0.2,
+    "filter.lfo.amount": 0.15,
+    "env.adsr.a": 0.4,
+    "env.adsr.d": 0.3,
+    "env.adsr.s": 0.75,
+    "env.adsr.r": 0.8,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.5,
+    "fx.delay": 0.25,
+    "fx.reverb": 0.7,
+    "output.level": 0.75,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/17_Pad_Warm.json",
+    "conversionDate": "2026-01-21T18:47:57.411213",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

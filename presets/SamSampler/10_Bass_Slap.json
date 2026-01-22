@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Slap Bass",
+  "author": "Bret Bouchard",
+  "description": "Slap bass with percussive attack, bright tone, and funky character.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:46.589782",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "slap",
+    "percussive",
+    "funky",
+    "bright"
+  ],
+  "parameters": {
+    "sample.file": "bass_slap_C2.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.75,
+    "filter.resonance": 0.3,
+    "env.adsr.a": 0.001,
+    "env.adsr.d": 0.2,
+    "env.adsr.s": 0.15,
+    "env.adsr.r": 0.18,
+    "fx.drive": 0.12,
+    "fx.chorus": 0.2,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.1,
+    "output.level": 0.83,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/10_Bass_Slap.json",
+    "conversionDate": "2026-01-21T18:47:46.589776",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

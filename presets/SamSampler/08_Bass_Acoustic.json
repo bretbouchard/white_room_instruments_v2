@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Acoustic Bass",
+  "author": "Bret Bouchard",
+  "description": "Upright acoustic bass with woody tone and natural resonance.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:47.020407",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "acoustic",
+    "upright",
+    "woody",
+    "natural"
+  ],
+  "parameters": {
+    "sample.file": "bass_upright_C2.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.2,
+    "sample.loop.end": 0.8,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.7,
+    "filter.resonance": 0.15,
+    "env.adsr.a": 0.015,
+    "env.adsr.d": 0.2,
+    "env.adsr.s": 0.6,
+    "env.adsr.r": 0.3,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.0,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.25,
+    "output.level": 0.8,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/08_Bass_Acoustic.json",
+    "conversionDate": "2026-01-21T18:47:47.020399",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "FX Impact",
+  "author": "Bret Bouchard",
+  "description": "Impact FX sample with fast attack, filter sweep, and dramatic reverb tail.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:41.994384",
+  "categories": [
+    "FX"
+  ],
+  "tags": [
+    "FX",
+    "impact",
+    "cinematic",
+    "sweep"
+  ],
+  "parameters": {
+    "sample.file": "samples/impact_fx.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.3,
+    "filter.resonance": 0.5,
+    "env.adsr.a": 0.0,
+    "env.adsr.d": 0.5,
+    "env.adsr.s": 0.0,
+    "env.adsr.r": 1.2,
+    "fx.drive": 0.15,
+    "fx.chorus": 0.2,
+    "fx.delay": 0.3,
+    "fx.reverb": 0.7,
+    "output.level": 0.85,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/05_FX_Impact.json",
+    "conversionDate": "2026-01-21T18:47:41.994378",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

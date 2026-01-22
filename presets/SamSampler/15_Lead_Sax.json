@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Saxophone Lead",
+  "author": "Bret Bouchard",
+  "description": "Jazz saxophone with warm tone, vibrato, and expressive dynamics.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:44.042992",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "saxophone",
+    "jazz",
+    "warm",
+    "expressive"
+  ],
+  "parameters": {
+    "sample.file": "wind_sax_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.18,
+    "sample.loop.end": 0.82,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.58,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.62,
+    "filter.resonance": 0.2,
+    "env.adsr.a": 0.07,
+    "env.adsr.d": 0.18,
+    "env.adsr.s": 0.58,
+    "env.adsr.r": 0.22,
+    "fx.drive": 0.06,
+    "fx.chorus": 0.25,
+    "fx.delay": 0.1,
+    "fx.reverb": 0.42,
+    "output.level": 0.78,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/15_Lead_Sax.json",
+    "conversionDate": "2026-01-21T18:47:44.042986",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

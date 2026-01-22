@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "FX Rise",
+  "author": "Bret Bouchard",
+  "description": "Noise rise effect with filter sweep, pitch modulation, and tension-building energy.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:48:02.502206",
+  "categories": [
+    "FX"
+  ],
+  "tags": [
+    "FX",
+    "rise",
+    "sweep",
+    "tension",
+    "transition"
+  ],
+  "parameters": {
+    "osc1.waveform": 0.0,
+    "osc1.pitch": 0.5,
+    "osc1.detune": 0.5,
+    "osc1.level": 0.8,
+    "osc2.waveform": 0.0,
+    "osc2.pitch": 0.7,
+    "osc2.detune": 0.5,
+    "osc2.level": 0.7,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.2,
+    "filter.resonance": 0.5,
+    "filter.env.amount": 0.8,
+    "filter.lfo.rate": 0.1,
+    "filter.lfo.amount": 0.3,
+    "env.adsr.a": 0.1,
+    "env.adsr.d": 1.5,
+    "env.adsr.s": 1.0,
+    "env.adsr.r": 0.5,
+    "fx.drive": 0.25,
+    "fx.chorus": 0.3,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.5,
+    "output.level": 0.8,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/30_FX_Rise.json",
+    "conversionDate": "2026-01-21T18:48:02.502198",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

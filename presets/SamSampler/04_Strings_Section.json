@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Strings Section",
+  "author": "Bret Bouchard",
+  "description": "String section sample with slow attack, lush chorus, and generous reverb for cinematic textures.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:46.808024",
+  "categories": [
+    "Strings"
+  ],
+  "tags": [
+    "strings",
+    "section",
+    "cinematic",
+    "lush"
+  ],
+  "parameters": {
+    "sample.file": "samples/strings_section.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.2,
+    "sample.loop.end": 0.9,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.7,
+    "filter.resonance": 0.15,
+    "env.adsr.a": 0.3,
+    "env.adsr.d": 0.4,
+    "env.adsr.s": 0.7,
+    "env.adsr.r": 0.6,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.55,
+    "fx.delay": 0.2,
+    "fx.reverb": 0.65,
+    "output.level": 0.75,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/04_Strings_Section.json",
+    "conversionDate": "2026-01-21T18:47:46.808017",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

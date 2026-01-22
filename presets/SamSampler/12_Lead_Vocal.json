@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Vocal Lead",
+  "author": "Bret Bouchard",
+  "description": "Lead vocal sample with formant filtering and expressive dynamics.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:45.738117",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "vocal",
+    "expressive",
+    "formant",
+    "singing"
+  ],
+  "parameters": {
+    "sample.file": "vocal_ahh_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.2,
+    "sample.loop.end": 0.8,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.55,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.65,
+    "filter.resonance": 0.25,
+    "env.adsr.a": 0.03,
+    "env.adsr.d": 0.2,
+    "env.adsr.s": 0.6,
+    "env.adsr.r": 0.3,
+    "fx.drive": 0.05,
+    "fx.chorus": 0.35,
+    "fx.delay": 0.15,
+    "fx.reverb": 0.5,
+    "output.level": 0.78,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/12_Lead_Vocal.json",
+    "conversionDate": "2026-01-21T18:47:45.738111",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

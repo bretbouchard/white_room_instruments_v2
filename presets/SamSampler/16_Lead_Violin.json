@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Violin Lead",
+  "author": "Bret Bouchard",
+  "description": "Solo violin with slow attack, vibrato, and singing tone.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:41.201300",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "violin",
+    "strings",
+    "singing",
+    "expressive"
+  ],
+  "parameters": {
+    "sample.file": "strings_violin_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.25,
+    "sample.loop.end": 0.75,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.52,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.72,
+    "filter.resonance": 0.15,
+    "env.adsr.a": 0.1,
+    "env.adsr.d": 0.15,
+    "env.adsr.s": 0.7,
+    "env.adsr.r": 0.25,
+    "fx.drive": 0.03,
+    "fx.chorus": 0.3,
+    "fx.delay": 0.12,
+    "fx.reverb": 0.55,
+    "output.level": 0.75,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/16_Lead_Violin.json",
+    "conversionDate": "2026-01-21T18:47:41.201294",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

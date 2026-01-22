@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "FM Bass",
+  "author": "Bret Bouchard",
+  "description": "Detuned oscillator pair creates metallic FM-like bass with harmonically rich tone and punch.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:48:00.369430",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "FM",
+    "metallic",
+    "detuned",
+    "modern"
+  ],
+  "parameters": {
+    "osc1.waveform": 0.0,
+    "osc1.pitch": 0.35,
+    "osc1.detune": 0.5,
+    "osc1.level": 0.8,
+    "osc2.waveform": 2.0,
+    "osc2.pitch": 0.7,
+    "osc2.detune": 0.5,
+    "osc2.level": 0.6,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.28,
+    "filter.resonance": 0.35,
+    "filter.env.amount": 0.6,
+    "filter.lfo.rate": 0.5,
+    "filter.lfo.amount": 0.0,
+    "env.adsr.a": 0.01,
+    "env.adsr.d": 0.22,
+    "env.adsr.s": 0.5,
+    "env.adsr.r": 0.3,
+    "fx.drive": 0.12,
+    "fx.chorus": 0.0,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.1,
+    "output.level": 0.85,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/10_Bass_Fm.json",
+    "conversionDate": "2026-01-21T18:48:00.369422",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

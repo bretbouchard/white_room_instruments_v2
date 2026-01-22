@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Choir Pad",
+  "author": "Bret Bouchard",
+  "description": "Vocal choir pad with formant filtering and atmospheric reverb.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:43.211842",
+  "categories": [
+    "Pad"
+  ],
+  "tags": [
+    "pad",
+    "choir",
+    "vocal",
+    "atmospheric",
+    "ethereal"
+  ],
+  "parameters": {
+    "sample.file": "choir_ahh_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.25,
+    "sample.loop.end": 0.75,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.55,
+    "filter.resonance": 0.2,
+    "env.adsr.a": 0.5,
+    "env.adsr.d": 0.35,
+    "env.adsr.s": 0.65,
+    "env.adsr.r": 0.8,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.6,
+    "fx.delay": 0.25,
+    "fx.reverb": 0.8,
+    "output.level": 0.7,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/23_Pad_Choir.json",
+    "conversionDate": "2026-01-21T18:47:43.211836",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Aphex Snare Hell",
+  "author": "Schill Instruments",
+  "description": "Aggressive Aphex Twin-inspired drill with heavy snare bursts, extreme chaos, and complex grid mutations",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:32.611446",
+  "categories": [
+    "Drill"
+  ],
+  "tags": [
+    "drill",
+    "aphex twin",
+    "aggressive",
+    "IDM",
+    "chaos"
+  ],
+  "parameters": {
+    "tempo": 172.0,
+    "swing": 0.02,
+    "master_volume": 0.85,
+    "pattern_length": 16.0,
+    "pocket_offset": 0.0,
+    "push_offset": -0.05,
+    "pull_offset": 0.08,
+    "dilla_amount": 0.2,
+    "dilla_hat_bias": 0.6,
+    "dilla_snare_late": 0.7,
+    "dilla_kick_tight": 0.9,
+    "dilla_max_drift": 0.15
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/DrumMachine/drill/02_Aphex_Snare_Hell.json",
+    "conversionDate": "2026-01-21T18:47:32.611441",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

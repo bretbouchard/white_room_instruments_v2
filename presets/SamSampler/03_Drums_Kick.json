@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Drums Kick",
+  "author": "Bret Bouchard",
+  "description": "Punchy kick drum sample with tight envelope and low-pass filter for solid low-end.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:39.821943",
+  "categories": [
+    "Drums"
+  ],
+  "tags": [
+    "kick",
+    "drums",
+    "punchy",
+    "low-end"
+  ],
+  "parameters": {
+    "sample.file": "samples/kick_drum.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.45,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.5,
+    "filter.resonance": 0.3,
+    "env.adsr.a": 0.0,
+    "env.adsr.d": 0.3,
+    "env.adsr.s": 0.0,
+    "env.adsr.r": 0.2,
+    "fx.drive": 0.2,
+    "fx.chorus": 0.0,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.05,
+    "output.level": 0.9,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/03_Drums_Kick.json",
+    "conversionDate": "2026-01-21T18:47:39.821937",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

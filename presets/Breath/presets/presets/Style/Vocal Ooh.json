@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Vocal Ooh",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Vocal Ooh.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:45.096213",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.5,
+    "tone": 0.5,
+    "formant": 0.4,
+    "resistance": 0.5,
+    "vibratoDepth": 0.3,
+    "vibratoRateHz": 5.5,
+    "noiseColor": 0.6,
+    "sineAnchor": 0.3,
+    "motionSustain": 1,
+    "motionSensitivity": 0.6,
+    "attackMs": 50,
+    "releaseMs": 300,
+    "outputGainDb": -3
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/Style/Vocal Ooh.xml",
+    "conversionDate": "2026-01-21T18:43:45.096228",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

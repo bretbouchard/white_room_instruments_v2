@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Subtle Vibrato",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Subtle Vibrato.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:45.656250",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.5,
+    "tone": 0.6,
+    "formant": 0.5,
+    "resistance": 0.4,
+    "vibratoDepth": 0.15,
+    "vibratoRateHz": 5,
+    "noiseColor": 0.7,
+    "sineAnchor": 0.3,
+    "motionSustain": 1,
+    "motionSensitivity": 0.6,
+    "attackMs": 50,
+    "releaseMs": 300,
+    "outputGainDb": -3
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/Performance/Subtle Vibrato.xml",
+    "conversionDate": "2026-01-21T18:43:45.656266",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Pulse Lead",
+  "author": "Bret Bouchard",
+  "description": "Narrow pulse wave lead with thin, piercing tone and fast response for melodic lines.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:48:01.495952",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "pulse",
+    "thin",
+    "piercing",
+    "melodic"
+  ],
+  "parameters": {
+    "osc1.waveform": 3.0,
+    "osc1.pitch": 0.52,
+    "osc1.detune": 0.5,
+    "osc1.level": 0.85,
+    "osc2.waveform": 1.0,
+    "osc2.pitch": 0.52,
+    "osc2.detune": 0.5,
+    "osc2.level": 0.3,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.6,
+    "filter.resonance": 0.35,
+    "filter.env.amount": 0.25,
+    "filter.lfo.rate": 0.5,
+    "filter.lfo.amount": 0.0,
+    "env.adsr.a": 0.008,
+    "env.adsr.d": 0.15,
+    "env.adsr.s": 0.4,
+    "env.adsr.r": 0.2,
+    "fx.drive": 0.05,
+    "fx.chorus": 0.25,
+    "fx.delay": 0.2,
+    "fx.reverb": 0.35,
+    "output.level": 0.78,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/14_Lead_Pulse.json",
+    "conversionDate": "2026-01-21T18:48:01.495944",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

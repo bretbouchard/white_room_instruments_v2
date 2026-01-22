@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Whisper",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Whisper.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:39.518413",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.9,
+    "tone": 0.3,
+    "formant": 0.3,
+    "resistance": 0.1,
+    "vibratoDepth": 0,
+    "vibratoRateHz": 5,
+    "noiseColor": 0.9,
+    "sineAnchor": 0.1,
+    "motionSustain": 0,
+    "motionSensitivity": 0.4,
+    "attackMs": 100,
+    "releaseMs": 600,
+    "outputGainDb": -12
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/FX/Whisper.xml",
+    "conversionDate": "2026-01-21T18:43:39.518437",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

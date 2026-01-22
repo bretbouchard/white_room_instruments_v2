@@ -1,0 +1,54 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Bass Init",
+  "author": "Bret Bouchard",
+  "description": "Warm subtractive bass with detuned oscillators and filter envelope for punchy low-end.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:54.843661",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "warm",
+    "punchy",
+    "subtractive"
+  ],
+  "parameters": {
+    "osc1.waveform": 1.0,
+    "osc1.pitch": 0.35,
+    "osc1.detune": 0.52,
+    "osc1.level": 0.8,
+    "osc2.waveform": 1.0,
+    "osc2.pitch": 0.35,
+    "osc2.detune": 0.48,
+    "osc2.level": 0.6,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.25,
+    "filter.resonance": 0.5,
+    "filter.env.amount": 0.7,
+    "filter.lfo.rate": 0.3,
+    "filter.lfo.amount": 0.0,
+    "env.adsr.a": 0.01,
+    "env.adsr.d": 0.3,
+    "env.adsr.s": 0.6,
+    "env.adsr.r": 0.4,
+    "fx.drive": 0.15,
+    "fx.chorus": 0.0,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.1,
+    "output.level": 0.85,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/02_Bass_Init.json",
+    "conversionDate": "2026-01-21T18:47:54.843655",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

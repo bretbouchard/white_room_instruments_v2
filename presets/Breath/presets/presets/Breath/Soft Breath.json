@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Soft Breath",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Soft Breath.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:43.842389",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.3,
+    "tone": 0.5,
+    "formant": 0.5,
+    "resistance": 0.6,
+    "vibratoDepth": 0.05,
+    "vibratoRateHz": 5,
+    "noiseColor": 0.6,
+    "sineAnchor": 0.2,
+    "motionSustain": 1,
+    "motionSensitivity": 0.5,
+    "attackMs": 80,
+    "releaseMs": 400,
+    "outputGainDb": -6
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/Breath/Soft Breath.xml",
+    "conversionDate": "2026-01-21T18:43:43.842406",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

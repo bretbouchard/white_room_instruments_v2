@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "FX Impact",
+  "author": "Bret Bouchard",
+  "description": "Cinematic impact hit with sub drop and punchy transient.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:44.493150",
+  "categories": [
+    "FX"
+  ],
+  "tags": [
+    "FX",
+    "impact",
+    "cinematic",
+    "sub",
+    "hit"
+  ],
+  "parameters": {
+    "sample.file": "fx_impact.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.8,
+    "filter.resonance": 0.2,
+    "env.adsr.a": 0.001,
+    "env.adsr.d": 0.4,
+    "env.adsr.s": 0.0,
+    "env.adsr.r": 0.5,
+    "fx.drive": 0.15,
+    "fx.chorus": 0.0,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.3,
+    "output.level": 0.9,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/34_FX_Impact.json",
+    "conversionDate": "2026-01-21T18:47:44.493144",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

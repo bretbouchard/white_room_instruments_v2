@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Brassy",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Brassy.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:44.911575",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.7,
+    "tone": 0.8,
+    "formant": 0.5,
+    "resistance": 0.6,
+    "vibratoDepth": 0.25,
+    "vibratoRateHz": 5,
+    "noiseColor": 0.7,
+    "sineAnchor": 0.4,
+    "motionSustain": 1,
+    "motionSensitivity": 0.65,
+    "attackMs": 30,
+    "releaseMs": 150,
+    "outputGainDb": 0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/Style/Brassy.xml",
+    "conversionDate": "2026-01-21T18:43:44.911591",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

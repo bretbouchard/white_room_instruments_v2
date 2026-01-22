@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Brass Lead",
+  "author": "Bret Bouchard",
+  "description": "Trumpet lead sample with bright filter and punchy attacks.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:41.797507",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "brass",
+    "trumpet",
+    "bright",
+    "punchy"
+  ],
+  "parameters": {
+    "sample.file": "brass_trumpet_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.15,
+    "sample.loop.end": 0.85,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.7,
+    "filter.resonance": 0.3,
+    "env.adsr.a": 0.05,
+    "env.adsr.d": 0.15,
+    "env.adsr.s": 0.55,
+    "env.adsr.r": 0.2,
+    "fx.drive": 0.08,
+    "fx.chorus": 0.15,
+    "fx.delay": 0.1,
+    "fx.reverb": 0.4,
+    "output.level": 0.8,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/13_Lead_Brass.json",
+    "conversionDate": "2026-01-21T18:47:41.797501",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

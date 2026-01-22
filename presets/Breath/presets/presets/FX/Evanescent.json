@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Evanescent",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Evanescent.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:42.881918",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.3,
+    "tone": 0.8,
+    "formant": 0.4,
+    "resistance": 0.2,
+    "vibratoDepth": 0.2,
+    "vibratoRateHz": 7,
+    "noiseColor": 0.8,
+    "sineAnchor": 0.3,
+    "motionSustain": 1,
+    "motionSensitivity": 0.7,
+    "attackMs": 150,
+    "releaseMs": 800,
+    "outputGainDb": -9
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/FX/Evanescent.xml",
+    "conversionDate": "2026-01-21T18:43:42.881934",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

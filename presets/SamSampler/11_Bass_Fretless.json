@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Fretless Bass",
+  "author": "Bret Bouchard",
+  "description": "Smooth fretless bass with singing sustain and expressive tone.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:45.200838",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "fretless",
+    "smooth",
+    "expressive",
+    "singing"
+  ],
+  "parameters": {
+    "sample.file": "bass_fretless_C2.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.15,
+    "sample.loop.end": 0.85,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.6,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.58,
+    "filter.resonance": 0.18,
+    "env.adsr.a": 0.012,
+    "env.adsr.d": 0.18,
+    "env.adsr.s": 0.55,
+    "env.adsr.r": 0.28,
+    "fx.drive": 0.05,
+    "fx.chorus": 0.25,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.2,
+    "output.level": 0.8,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/11_Bass_Fretless.json",
+    "conversionDate": "2026-01-21T18:47:45.200831",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

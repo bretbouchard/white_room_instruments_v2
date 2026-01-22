@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Sub Bass",
+  "author": "Bret Bouchard",
+  "description": "Deep sub bass sample with clean low-end and focused tone.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:46.376821",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "sub",
+    "clean",
+    "focused",
+    "deep"
+  ],
+  "parameters": {
+    "sample.file": "bass_sub_C1.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.1,
+    "sample.loop.end": 0.9,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.35,
+    "filter.resonance": 0.1,
+    "env.adsr.a": 0.02,
+    "env.adsr.d": 0.15,
+    "env.adsr.s": 0.7,
+    "env.adsr.r": 0.25,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.0,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.05,
+    "output.level": 0.88,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/09_Bass_Sub.json",
+    "conversionDate": "2026-01-21T18:47:46.376813",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

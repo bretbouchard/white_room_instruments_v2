@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Synth Lead",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Synth Lead.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:44.589314",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.4,
+    "tone": 0.8,
+    "formant": 0.5,
+    "resistance": 0.3,
+    "vibratoDepth": 0.4,
+    "vibratoRateHz": 6,
+    "noiseColor": 0.7,
+    "sineAnchor": 0.4,
+    "motionSustain": 0,
+    "motionSensitivity": 0.6,
+    "attackMs": 20,
+    "releaseMs": 100,
+    "outputGainDb": 0
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/Style/Synth Lead.xml",
+    "conversionDate": "2026-01-21T18:43:44.589330",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

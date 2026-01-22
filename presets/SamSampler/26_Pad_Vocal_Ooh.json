@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Vocal Ooh",
+  "author": "Bret Bouchard",
+  "description": "Warm vocal ooh pad with gentle formants and choir-like blend.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:39.434261",
+  "categories": [
+    "Pad"
+  ],
+  "tags": [
+    "pad",
+    "vocal",
+    "ooh",
+    "warm",
+    "choir"
+  ],
+  "parameters": {
+    "sample.file": "choir_ooh_C4.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.28,
+    "sample.loop.end": 0.72,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.58,
+    "filter.resonance": 0.16,
+    "env.adsr.a": 0.45,
+    "env.adsr.d": 0.32,
+    "env.adsr.s": 0.67,
+    "env.adsr.r": 0.75,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.58,
+    "fx.delay": 0.28,
+    "fx.reverb": 0.78,
+    "output.level": 0.71,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/26_Pad_Vocal_Ooh.json",
+    "conversionDate": "2026-01-21T18:47:39.434255",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

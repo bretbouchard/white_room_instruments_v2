@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Default Init",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Default Init.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:42.504751",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.45,
+    "tone": 0.5,
+    "formant": 0.5,
+    "resistance": 0.3,
+    "vibratoDepth": 0.1,
+    "vibratoRateHz": 5,
+    "noiseColor": 0.7,
+    "sineAnchor": 0.3,
+    "motionSustain": 1,
+    "motionSensitivity": 0.6,
+    "attackMs": 50,
+    "releaseMs": 300,
+    "outputGainDb": -3
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/presets/presets/Init/Default Init.xml",
+    "conversionDate": "2026-01-21T18:43:42.504766",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

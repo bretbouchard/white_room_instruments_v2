@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Sync Lead",
+  "author": "Bret Bouchard",
+  "description": "Hard sync lead with aggressive character, fast envelope, and bite for cutting through mixes.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:48:02.816392",
+  "categories": [
+    "Lead"
+  ],
+  "tags": [
+    "lead",
+    "sync",
+    "aggressive",
+    "bite",
+    "modern"
+  ],
+  "parameters": {
+    "osc1.waveform": 1.0,
+    "osc1.pitch": 0.5,
+    "osc1.detune": 0.5,
+    "osc1.level": 0.9,
+    "osc2.waveform": 1.0,
+    "osc2.pitch": 0.65,
+    "osc2.detune": 0.5,
+    "osc2.level": 0.7,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.65,
+    "filter.resonance": 0.55,
+    "filter.env.amount": 0.5,
+    "filter.lfo.rate": 0.35,
+    "filter.lfo.amount": 0.2,
+    "env.adsr.a": 0.005,
+    "env.adsr.d": 0.12,
+    "env.adsr.s": 0.5,
+    "env.adsr.r": 0.2,
+    "fx.drive": 0.25,
+    "fx.chorus": 0.15,
+    "fx.delay": 0.18,
+    "fx.reverb": 0.25,
+    "output.level": 0.82,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/12_Lead_Sync.json",
+    "conversionDate": "2026-01-21T18:48:02.816385",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

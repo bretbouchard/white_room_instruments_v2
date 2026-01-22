@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Synth Bass",
+  "author": "Bret Bouchard",
+  "description": "Synthesized bass sample with filter sweep and aggressive character.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:43.834634",
+  "categories": [
+    "Bass"
+  ],
+  "tags": [
+    "bass",
+    "synth",
+    "aggressive",
+    "filter",
+    "modern"
+  ],
+  "parameters": {
+    "sample.file": "bass_reese_C2.wav",
+    "sample.loop_mode": 1.0,
+    "sample.loop.start": 0.1,
+    "sample.loop.end": 0.9,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.45,
+    "filter.resonance": 0.5,
+    "env.adsr.a": 0.005,
+    "env.adsr.d": 0.12,
+    "env.adsr.s": 0.4,
+    "env.adsr.r": 0.18,
+    "fx.drive": 0.25,
+    "fx.chorus": 0.2,
+    "fx.delay": 0.0,
+    "fx.reverb": 0.1,
+    "output.level": 0.85,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/07_Bass_Synth.json",
+    "conversionDate": "2026-01-21T18:47:43.834626",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

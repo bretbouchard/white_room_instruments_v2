@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "808 Hip Hop",
+  "author": "Schill Instruments",
+  "description": "Complete hip hop preset with Classic 808 kit and basic boom-bap pattern",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:33.388843",
+  "categories": [
+    "HipHop"
+  ],
+  "tags": [
+    "hiphop",
+    "808",
+    "complete",
+    "boom-bap"
+  ],
+  "parameters": {
+    "tempo": 95.0,
+    "swing": 0.05,
+    "master_volume": 0.85,
+    "pattern_length": 16.0,
+    "pocket_offset": 0.0,
+    "push_offset": -0.04,
+    "pull_offset": 0.06,
+    "dilla_amount": 0.3,
+    "dilla_hat_bias": 0.55,
+    "dilla_snare_late": 0.6,
+    "dilla_kick_tight": 0.8,
+    "dilla_max_drift": 0.1
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/DrumMachine/complete/01_808_HipHop.json",
+    "conversionDate": "2026-01-21T18:47:33.388837",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

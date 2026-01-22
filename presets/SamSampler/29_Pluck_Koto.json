@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Koto",
+  "author": "Bret Bouchard",
+  "description": "Japanese koto with plucked string character and eastern harmonic content.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:42.808618",
+  "categories": [
+    "Pluck"
+  ],
+  "tags": [
+    "pluck",
+    "koto",
+    "Japanese",
+    "eastern",
+    "string"
+  ],
+  "parameters": {
+    "sample.file": "koto_C4.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.7,
+    "filter.resonance": 0.15,
+    "env.adsr.a": 0.001,
+    "env.adsr.d": 0.55,
+    "env.adsr.s": 0.08,
+    "env.adsr.r": 0.48,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.18,
+    "fx.delay": 0.15,
+    "fx.reverb": 0.45,
+    "output.level": 0.8,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/29_Pluck_Koto.json",
+    "conversionDate": "2026-01-21T18:47:42.808601",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

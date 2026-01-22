@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Open",
+  "author": "SchillingerEcosystem",
+  "description": "Converted from Open.xml",
+  "instrument": "BreathLead",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:43:40.083667",
+  "categories": [
+    "uncategorized"
+  ],
+  "tags": [],
+  "parameters": {
+    "air": 0.6,
+    "tone": 0.7,
+    "formant": 0.4,
+    "resistance": 0.2,
+    "vibratoDepth": 0.15,
+    "vibratoRateHz": 5.5,
+    "noiseColor": 0.7,
+    "sineAnchor": 0.3,
+    "motionSustain": 1,
+    "motionSensitivity": 0.7,
+    "attackMs": 60,
+    "releaseMs": 400,
+    "outputGainDb": -3
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/BreathLead/Character/Open.xml",
+    "conversionDate": "2026-01-21T18:43:40.083686",
+    "originalFormat": "XML",
+    "converterVersion": "1.0.0"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Marimba",
+  "author": "Bret Bouchard",
+  "description": "Wooden marimba with warm tone and percussive decay.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:45.950693",
+  "categories": [
+    "Pluck"
+  ],
+  "tags": [
+    "pluck",
+    "marimba",
+    "wooden",
+    "percussion",
+    "warm"
+  ],
+  "parameters": {
+    "sample.file": "marimba_C4.wav",
+    "sample.loop_mode": 0.0,
+    "sample.loop.start": 0.0,
+    "sample.loop.end": 1.0,
+    "pitch.transpose": 0.5,
+    "pitch.detune": 0.5,
+    "pitch.bend": 0.5,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.68,
+    "filter.resonance": 0.1,
+    "env.adsr.a": 0.001,
+    "env.adsr.d": 0.35,
+    "env.adsr.s": 0.0,
+    "env.adsr.r": 0.3,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.12,
+    "fx.delay": 0.1,
+    "fx.reverb": 0.35,
+    "output.level": 0.82,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/SamSampler/30_Pluck_Marimba.json",
+    "conversionDate": "2026-01-21T18:47:45.950685",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

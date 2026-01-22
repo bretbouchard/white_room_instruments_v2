@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Drill Lite",
+  "author": "Schill Instruments",
+  "description": "Subtle drill mode for gentle rhythmic variation with minimal chaos",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:32.803914",
+  "categories": [
+    "Drill"
+  ],
+  "tags": [
+    "drill",
+    "subtle",
+    " IDM",
+    "lite"
+  ],
+  "parameters": {
+    "tempo": 140.0,
+    "swing": 0.0,
+    "master_volume": 0.85,
+    "pattern_length": 16.0,
+    "pocket_offset": 0.0,
+    "push_offset": -0.02,
+    "pull_offset": 0.03,
+    "dilla_amount": 0.1,
+    "dilla_hat_bias": 0.5,
+    "dilla_snare_late": 0.5,
+    "dilla_kick_tight": 0.7,
+    "dilla_max_drift": 0.05
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/DrumMachine/drill/01_Drill_Lite.json",
+    "conversionDate": "2026-01-21T18:47:32.803904",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

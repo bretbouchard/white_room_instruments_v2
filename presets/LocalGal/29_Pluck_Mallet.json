@@ -1,0 +1,55 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Mallet",
+  "author": "Bret Bouchard",
+  "description": "Mallet percussion with sine harmonics, wooden character, and gentle decay.",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:48:00.732821",
+  "categories": [
+    "Pluck"
+  ],
+  "tags": [
+    "pluck",
+    "mallet",
+    "percussion",
+    "wooden",
+    "soft"
+  ],
+  "parameters": {
+    "osc1.waveform": 2.0,
+    "osc1.pitch": 0.55,
+    "osc1.detune": 0.5,
+    "osc1.level": 0.85,
+    "osc2.waveform": 1.0,
+    "osc2.pitch": 0.55,
+    "osc2.detune": 0.5,
+    "osc2.level": 0.3,
+    "filter.type": 0.0,
+    "filter.cutoff": 0.58,
+    "filter.resonance": 0.15,
+    "filter.env.amount": 0.1,
+    "filter.lfo.rate": 0.5,
+    "filter.lfo.amount": 0.0,
+    "env.adsr.a": 0.001,
+    "env.adsr.d": 0.35,
+    "env.adsr.s": 0.0,
+    "env.adsr.r": 0.4,
+    "fx.drive": 0.0,
+    "fx.chorus": 0.2,
+    "fx.delay": 0.15,
+    "fx.reverb": 0.5,
+    "output.level": 0.8,
+    "output.pan": 0.5
+  },
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/LocalGal/29_Pluck_Mallet.json",
+    "conversionDate": "2026-01-21T18:48:00.732814",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}

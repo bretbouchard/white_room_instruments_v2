@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "format": "UPFS",
+  "name": "Hip Hop Basic",
+  "author": "Schill Instruments",
+  "description": "Classic hip-hop drum pattern with kick on 1 and 3, snare on 2 and 4",
+  "instrument": "Unknown",
+  "platform": "universal",
+  "creationDate": "2026-01-21T18:47:32.997304",
+  "categories": [
+    "HipHop"
+  ],
+  "tags": [
+    "hiphop",
+    "classic",
+    "boom-bap"
+  ],
+  "parameters": {},
+  "macros": {},
+  "modulationMatrix": [],
+  "metadata": {
+    "sourceFile": "/Users/bretbouchard/apps/schill/white_room/juce_backend/instruments/presets/DrumMachine/patterns/01_HipHop_Basic.json",
+    "conversionDate": "2026-01-21T18:47:32.997298",
+    "originalFormat": "Legacy JSON",
+    "converterVersion": "1.0.0",
+    "originalVersion": "1.0.0"
+  }
+}
