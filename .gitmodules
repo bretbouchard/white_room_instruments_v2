@@ -1,0 +1,33 @@
+[submodule "kane"]
+	path = kane
+	url = https://github.com/bretbouchard/kane-instrument.git
+[submodule "aether"]
+	path = aether
+	url = https://github.com/bretbouchard/aether-instrument.git
+[submodule "string"]
+	path = string
+	url = https://github.com/bretbouchard/string-instrument.git
+[submodule "nex_synth"]
+	path = nex_synth
+	url = https://github.com/bretbouchard/nex-synth-instrument.git
+[submodule "breath"]
+	path = breath
+	url = https://github.com/bretbouchard/breath-instrument.git
+[submodule "motion"]
+	path = motion
+	url = https://github.com/bretbouchard/motion-instrument.git
+[submodule "nature"]
+	path = nature
+	url = https://github.com/bretbouchard/nature-instrument.git
+[submodule "localgal"]
+	path = localgal
+	url = https://github.com/bretbouchard/local-gal-instrument.git
+[submodule "sam_sampler"]
+	path = sam_sampler
+	url = https://github.com/bretbouchard/sam-sampler-instrument.git
+[submodule "drum_machine"]
+	path = drum_machine
+	url = https://github.com/bretbouchard/drum-machine-instrument.git
+[submodule "giants"]
+	path = giants
+	url = https://github.com/bretbouchard/giants-instrument.git
